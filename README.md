@@ -1,5 +1,8 @@
 # InsightStream
 
+📽️ [Watch the Demo Video](https://github.com/Shankar-I/InsightStream-Navigate-the-News/raw/main/video.mp4)
+
+
 ## Introduction
 
 InsightStream is a web application designed to help users discover and consume news efficiently. It offers an intuitive interface, dynamic search, and a variety of news categories.
