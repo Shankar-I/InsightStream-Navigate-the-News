@@ -1,9 +1,5 @@
 # InsightStream
 
-## Demo Video
-
-[Watch the Demo - video.mp4](#)
-
 ## Introduction
 
 InsightStream is a web application designed to help users discover and consume news efficiently. It offers an intuitive interface, dynamic search, and a variety of news categories.
