@@ -1,6 +1,8 @@
 # InsightStream
 
-📽️ [Watch the Demo Video](https://github.com/Shankar-I/InsightStream-Navigate-the-News/raw/main/video.mp4)
+📽️ [Demo Video](https://github.com/Shankar-I/InsightStream-Navigate-the-News/raw/main/video.mp4)
+📄 [Documentation](https://github.com/Shankar-I/InsightStream-Navigate-the-News/raw/main/Documentation.pdf)
+
 
 
 ## Introduction
